@@ -1,5 +1,5 @@
 #!/bin/sh
-for i in {0..300}
+for i in {0..301}
 do
     echo "Hello World #$i" > "script-file-$i.lfs"
 done
